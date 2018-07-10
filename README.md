@@ -1,6 +1,6 @@
 # BlogApp
 
-Attendance Application allows user to monitor their day to day attendance and also let's them check the time table for various days of the week
+The BlogApp let's users create a new account, change password, change username, change display pictures, interact using likes and comments and more.
 
 <img src="/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" align="left" height="95" width="95">
 
